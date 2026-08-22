@@ -18,7 +18,7 @@ This project idea is making Linux easy to use by providing some scripts that are
 1. **Setup Hibernation** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Setup_Hibernation_1.1.1-release)).
 2. **Setup swapfile** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Setup_swapfile_1.1.1-release)).
 3. **Setup ZRAM** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Setup_ZRAM_1.0.0-release)).
-4. **Update & upgrade** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Update_upgrade_1.1.4-release)).
+4. **Update & Upgrade** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Update_Upgrade_1.1.5-release)).
 
 <details>
 <summary>VMM</summary>
