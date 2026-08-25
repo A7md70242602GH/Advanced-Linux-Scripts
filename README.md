@@ -1,4 +1,4 @@
-# Simple Linux Scripts [SLS]
+# Advanced Linux Scripts [ALS]
 
 
 ## 💡 About
@@ -8,22 +8,22 @@ This project idea is making Linux easy to use by providing some scripts that are
 <details>
 <summary>Run (software)</summary>
 
-1. **Basic Utilities** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Basic_Utilities_1.0.2-release)).
+1. **Basic Utilities** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Basic_Utilities_1.0.2-release)).
 
 </details>
 
 <details>
 <summary>Shell (system modifications)</summary>
 
-1. **Setup Hibernation** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Setup_Hibernation_1.1.1-release)).
-2. **Setup swapfile** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Setup_swapfile_1.1.1-release)).
-3. **Setup ZRAM** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Setup_ZRAM_1.0.0-release)).
-4. **Update & Upgrade** ([release](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Update_Upgrade_1.1.5-release)).
+1. **Setup Hibernation** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_Hibernation_1.1.1-release)).
+2. **Setup swapfile** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_swapfile_1.1.1-release)).
+3. **Setup ZRAM** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_ZRAM_1.0.0-release)).
+4. **Update & Upgrade** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Update_Upgrade_1.1.5-release)).
 
 <details>
 <summary>VMM</summary>
 
-5. **Update Virt Manager database** ([testing](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/releases/Update_virtmgr_database_0.1.1-testing)).
+5. **Update Virt Manager database** ([testing](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Update_virtmgr_database_0.1.1-testing)).
 
 </details>
 
@@ -32,9 +32,10 @@ This project idea is making Linux easy to use by providing some scripts that are
 Note: All scripts here is for bash command-line interpreter only.
 
 ## 🤔 How to use?
-See the [wiki](https://gitlab.com/iahmed_7024-group/simple-linux-scripts/-/wikis/Home) for more information.
+See the [wiki](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/wikis/Home) for more information.
 
 ## 🪪 License
 The project is under [GPL 3.0 or later](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
-Note: All scripts are published on [GitLab](https://gitlab.com/iahmed_7024-group/simple-linux-scripts) project page.
+### Important Note!
+All scripts are published on [GitLab](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts) project page, this [GitHub](https://github.com/A7md70242602GH/Advanced-Linux-Scripts) page was made to make the project more popular.
