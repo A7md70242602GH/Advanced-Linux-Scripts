@@ -8,16 +8,6 @@ This project idea is making Linux easy to use by providing some scripts that are
 <details>
 <summary>Run (software)</summary>
 
-1. **Basic # Advanced Linux Scripts [ALS]
-
-
-## 💡 About
-This project idea is making Linux easy to use by providing some scripts that are easy to use.
-
-## 💻 All available scripts:
-<details>
-<summary>Run (software)</summary>
-
 1. **Basic Utilities** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Basic_Utilities_1.0.2-release)).
 
 </details>
