@@ -8,6 +8,16 @@ This project idea is making Linux easy to use by providing some scripts that are
 <details>
 <summary>Run (software)</summary>
 
+1. **Basic # Advanced Linux Scripts [ALS]
+
+
+## 💡 About
+This project idea is making Linux easy to use by providing some scripts that are easy to use.
+
+## 💻 All available scripts:
+<details>
+<summary>Run (software)</summary>
+
 1. **Basic Utilities** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Basic_Utilities_1.0.2-release)).
 
 </details>
@@ -35,7 +45,4 @@ Note: All scripts here is for bash command-line interpreter only.
 See the [wiki](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/wikis/Home) for more information.
 
 ## 🪪 License
-The project is under [GPL 3.0 or later](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
-
-### Important Note!
-All scripts are published on [GitLab](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts) project page, this [GitHub](https://github.com/A7md70242602GH/Advanced-Linux-Scripts) page was made to make the project more popular.
+The project is under [GNU General Public License 3.0 or later](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
