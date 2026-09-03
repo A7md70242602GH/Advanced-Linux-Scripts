@@ -36,3 +36,6 @@ See the [wiki](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/wik
 
 ## 🪪 License
 The project is under [GNU General Public License 3.0 or later](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
+
+## ⛔ Important Note!
+This project that's available on [GitHub](https://github.com/A7md70242602GH/Advanced-Linux-Scripts) is for improving the visibility, the main repository for downloading and using the script are available on [GitLab](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts).
