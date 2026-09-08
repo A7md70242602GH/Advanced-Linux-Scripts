@@ -15,10 +15,10 @@ This project idea is making Linux easy to use by providing some scripts that are
 <details>
 <summary>Shell (system modifications)</summary>
 
-1. **Setup Hibernation** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_Hibernation_1.1.1-release)).
-2. **Setup swapfile** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_swapfile_1.1.1-release)).
-3. **Setup ZRAM** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_ZRAM_1.0.0-release)).
-4. **Update & Upgrade** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Update_Upgrade_1.1.5-release)).
+1. **Setup Hibernation** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_Hibernation_1.1.2-release)).
+2. **Setup Swap** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_Swap_1.2.1-release)).
+3. **Setup ZRAM** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_ZRAM_1.0.1-release)).
+4. **Update & Upgrade** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Update_Upgrade_1.1.7-release)).
 
 <details>
 <summary>VMM</summary>
