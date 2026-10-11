@@ -8,22 +8,22 @@ This project idea is making Linux easy to use by providing some scripts that are
 <details>
 <summary>Run (software)</summary>
 
-1. **Basic Utilities** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Basic_Utilities_1.0.2-release)).
+1. **Basic Utilities** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Basic_Utilities_1.1.0-release)).
 
 </details>
 
 <details>
 <summary>Shell (system modifications)</summary>
 
-1. **Setup Hibernation** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_Hibernation_1.1.2-release)).
-2. **Setup Swap** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_Swap_1.2.1-release)).
-3. **Setup ZRAM** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_ZRAM_1.0.1-release)).
-4. **Update & Upgrade** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Update_Upgrade_1.1.7-release)).
+1. **Setup Hibernation** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_Hibernation_1.2.0-release)).
+2. **Setup Swap** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_Swap_1.3.0-release)).
+3. **Setup ZRAM** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Setup_ZRAM_1.1.0-release)).
+4. **Update & Upgrade** ([release](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Update_Upgrade_1.2.0-release)).
 
 <details>
 <summary>VMM</summary>
 
-5. **Update Virt Manager database** ([testing](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Update_virtmgr_database_0.1.1-testing)).
+5. **Update Virt Manager database** ([testing](https://gitlab.com/iahmed_7024-group/advanced-linux-scripts/-/releases/Update_virtmgr_database_0.2.0-testing)).
 
 </details>
 
